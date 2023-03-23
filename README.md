@@ -5,5 +5,5 @@ For this tutorial you will need an OpenShift cluster to deploy your .Net applica
 This tutorial [Run .Net 7 code on Red Hat OpenShift Container Platform on MacOS](https://cloud.redhat.com/blog/run-.net-7-code-on-red-hat-openshift-container-platform-on-macos) how to setup a basic .Net 7 development environment on your Mac.
 
 ### Install the OpenShift Command Line Client
-- To install the OCP CLI, we need to first login to the [OpenShift Container Platform downloads page]().
+- To install the OCP CLI, we need to first login to the [OpenShift Container Platform downloads page](https://access.redhat.com/downloads/content/290?extIdCarryOver=true&sc_cid=701f2000001Css5AAC).
 
